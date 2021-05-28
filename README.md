@@ -1,0 +1,2 @@
+# file-management
+a proof of concept file management tool if you have both an SSD and HDD on your computer, this tool tracks the most used files on your computer aka on demand file and transfers it to the SSD for faster access and loading while those file which aren't being accessed weekly or monthly will be transferred to the HDD for archival purposes since HDD are good in capacity but slow to load and prone to mechanical failure over time.
